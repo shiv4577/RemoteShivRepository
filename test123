@@ -7,3 +7,11 @@ int a ,b ,c
 
 c= a+b
 print c
+ ------------------
+
+add multiply
+
+int a, b,c 
+
+c=a*b
+print c
