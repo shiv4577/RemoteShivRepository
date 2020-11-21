@@ -2,3 +2,8 @@ testing new addesv
 
 addes review comment 
 plz add pogram
+
+int a ,b ,c
+
+c= a+b
+print c
