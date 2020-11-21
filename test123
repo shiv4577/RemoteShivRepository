@@ -7,3 +7,6 @@ int a ,b ,c
 
 c= a+b
 print c
+
+division 
+a/b
